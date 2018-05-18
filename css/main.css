@@ -1,0 +1,91 @@
+div.cities
+{
+    background-color: darkgray;
+    color:white;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+header {
+    background-color: aqua;
+    padding: 0px;
+    text-align:left; 
+}
+nav {
+    background-color:#eeeeee;
+    color:white;
+    
+    height:auto;
+    width:auto;
+    margin: 1px;
+}
+section {
+    background-color: crimson;
+    color:white;
+    
+    float:left;
+    width: 60%;
+    margin: 1px;
+    padding-left: 1%;
+}
+
+article{
+    background-color: crimson;
+    color:white;
+    
+    float:left;
+    width: 60%;
+    margin: 1px;
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+
+aside{
+    background-color: crimson;
+    color:white;
+    float:right;
+    width: 37%;
+    margin: 1px;
+    padding-left: 1%;
+}
+
+footer {
+    background-color:black;
+    color:white;
+    
+    clear: both;
+    text-align:center;
+    padding:5px;	 	 
+}
+
+input{
+    padding: 2px;
+    font-size: 20px
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: dimgrey;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: crimson;
+}
+
